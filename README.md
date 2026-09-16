@@ -26,7 +26,7 @@ Currently exploring:
 Binomial and finite-difference methods for derivative pricing.
 
 🔹 **Scientific Computing**
-Exploring machine learning tools including NumPy, decision trees, pandas, SciPy, regression methods and more.
+Exploring machine learning tools including decision trees, regression methods and more.
 
 🔹 **Mathematical Physics**
 Projects related to QFT, integrability and geometric methods.
