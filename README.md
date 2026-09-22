@@ -9,7 +9,7 @@
 
 ## About me
 
-I graduated in theoretical physics of the fundamental interactions, studying QFT, SM and other cool stuff!
+I graduated in theoretical physics of the fundamental interactions, studying QFT, GR and Cosmology!
 
 Currently exploring:
 - Stochastic calculus
@@ -26,10 +26,10 @@ Currently exploring:
 Binomial and finite-difference methods for derivative pricing.
 
 🔹 **Scientific Computing**
-Exploring machine learning tools including decision trees, regression methods and more.
+Exploring machine learning tools including decision trees, regression methods, SVC and more.
 
 🔹 **Mathematical Physics**
-Projects related to QFT, integrability and geometric methods.
+Projects related to QFT, integrability and solvable deformations.
 
 ## Tech
 
