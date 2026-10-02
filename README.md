@@ -17,7 +17,7 @@ Currently exploring:
 - Quantitative finance
 - Machine learning
 - Scientific computing
-- CFTs
+- CFTs/SCFTs
 - String Theory
   
 ## Projects
