@@ -37,4 +37,4 @@ Python · NumPy · SciPy · Matplotlib · Mathematica · Git
 
 ---
 
-📫 Feel free to explore my repositories!
+📫 Looking for suggestions and improvements :D
