@@ -33,7 +33,7 @@ Projects related to QFT, integrability and solvable deformations.
 
 ## Tech
 
-Python · NumPy · SciPy · Matplotlib · Mathematica · Git
+Python · NumPy · SciPy · Matplotlib · Mathematica · Git · Keras · TensorFlow · PyTorch
 
 ---
 
