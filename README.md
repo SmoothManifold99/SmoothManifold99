@@ -1,4 +1,4 @@
-# Hi, I'm Filippo 👋
+# Hi, I'm Filippo 🇮🇹
 
 🎓 Theoretical Physics  
 💻 Python | Mathematica | C++  
